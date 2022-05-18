@@ -1,0 +1,59 @@
+#red{
+background-color: red;
+text-align: center;
+padding-top: 40px;
+padding-bottom: 40px;
+margin: 0 auto;
+width: 50%;
+
+}
+
+#blue{
+background-color: blue;
+text-align: center;
+padding-top: 80px;
+padding-bottom: 80px;
+margin: 0 auto;
+width: 65%;
+
+}
+
+#green{
+background-color: green;
+text-align: center;
+padding-top: 110px;
+padding-bottom: 110px;
+margin: 0 auto;
+width: 80%;
+}
+
+
+#blank{
+    background-color: white;
+    height: 100px;
+}
+
+#table{
+    height: 100px;
+    margin: 0 auto;
+}
+
+#right {
+background-color: blueviolet;
+width: 100px;
+margin-right: 10%;
+
+}
+
+#left {
+background-color: blueviolet;
+width: 100px ;
+margin-left: 10%;
+}
+
+#space {
+    background-color: white;
+    width: 82.5%;
+    margin: 0 auto;
+}
+

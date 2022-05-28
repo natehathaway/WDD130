@@ -1,0 +1,42 @@
+
+body{
+    display: grid;
+    font-size: 2em;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.blockOne{
+    grid-row: 1;
+    grid-column: 1/2;
+    margin-left: 400px;
+}
+
+.blockTwo{
+    grid-row: 1;
+    grid-column : 2/3;
+    background-color: #B9B8B9;
+    margin-right: 400px;
+    padding: 10px;
+}
+
+.cherries{
+font-size: 1em;
+color:  #9C0E11;
+padding-top: 120px;
+}
+.picture{
+   
+   /* top: 3%;
+   left: 30%; */
+   
+}
+
+.tart{
+   letter-spacing: 10px;
+    position: absolute;
+    top: 3%;
+    left: 36%;
+}
+
+
